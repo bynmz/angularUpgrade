@@ -1,2 +1,2 @@
 # angularUpgrade
-Showcasing ng1 interpolation with ng2
+Showing ng1 interpolation with ng2
